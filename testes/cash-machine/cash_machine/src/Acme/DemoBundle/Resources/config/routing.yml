@@ -1,0 +1,5 @@
+
+_cajero_automatico:
+    resource: "@AcmeDemoBundle/Controller/AutomaticoController.php"
+    type:     annotation
+    prefix:   /cajero_automatico

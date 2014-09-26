@@ -1,0 +1,5 @@
+
+_caja_automatico:
+    resource: "@CajaDemoBundle/Controller/AutomaticoController.php"
+    type:     annotation
+    prefix:   /caja_automatico

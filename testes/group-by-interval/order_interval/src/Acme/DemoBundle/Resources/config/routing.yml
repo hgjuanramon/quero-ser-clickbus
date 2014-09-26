@@ -1,0 +1,5 @@
+
+_ordenacion:
+    resource: "@AcmeDemoBundle/Controller/OrdenacionController.php"
+    type:     annotation
+    prefix:   /ordenacion
